@@ -1,8 +1,4 @@
 # PRML
-
-# test commit by skvrgit
-
-
 ## ch2
 
 | ch| p. | Question |Answer|
